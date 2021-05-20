@@ -1,0 +1,23 @@
+{
+    "alp_LifeInsuranceExclusive": 25,
+    "BandageDressing": 25,
+    "alp_geiger_counter": 25,
+    "FirstAidKit": 25,
+    "Heatpack": 25,
+    "BloodTestKit": 23,
+    "PainkillerTablets": 25,
+    "Epinephrine": 24,
+    "TetracyclineAntibiotics": 23,
+    "alp_Anabolic": 25,
+    "Defibrillator": 25,
+    "CharcoalTablets": 25,
+    "PurificationTablets": 25,
+    "Morphine": 24,
+    "SalineBag": 25,
+    "BloodBagEmpty": 25,
+    "VitaminBottle": 25,
+    "alp_radboxtablets": 25,
+    "Thermometer": 25,
+    "StartKitIV": 25,
+    "SalineBagIV": 25
+}
